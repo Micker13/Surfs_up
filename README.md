@@ -21,7 +21,9 @@ To compare the data from SQLite we have used SQLAlchemy to generate queries of t
 This Hawaii location shows a very small difference between two months that are generally considered very different.  For a Surf shop investor, this is a strong basis for possible new business.  The average temperature only varies by ~4 degrees between the months and the maximum by only ~2 degrees.
 
 Mean - 75 to 71
+
 Max - 85 to 83
+
 Min - 64 to 56
 
 ### Summary
@@ -29,8 +31,11 @@ Min - 64 to 56
 This location seems an excellent choice for possible business as the shop could function year round and still perform sales.  Future analysis can also check the other data such as:
 
 other businesses in the area
+
 precipitation
+
 cloud coverage
+
 wave issues
 
 
